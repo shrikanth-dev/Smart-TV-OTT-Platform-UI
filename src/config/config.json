@@ -1,0 +1,540 @@
+{
+    "apiVersion": 2.0,
+    "loadingScreen": "https://i.ytimg.com/vi/GV3HUDMQ-F8/maxresdefault.jpg",
+    "layouts": [
+      {
+        "type": "spotlight",
+        "layout": "landscape",
+        "content": [
+          {
+            "title": "HanuMan",
+            "poster": "https://i.pinimg.com/736x/75/2d/29/752d29e9d9cb839a8fc8fb5acd064bad.jpg",
+            "spotlight": "https://economictimes.indiatimes.com/thumb/msid-106888809,width-1600,height-900,resizemode-4,imgsize-112166/hanumandb.jpg?from=mdr",
+            "thumbnail": "https://economictimes.indiatimes.com/thumb/msid-106888809,width-1600,height-900,resizemode-4,imgsize-112166/hanumandb.jpg?from=mdr",
+            "portrait": "https://i.pinimg.com/736x/75/2d/29/752d29e9d9cb839a8fc8fb5acd064bad.jpg",
+            "action": "play",
+            "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+            "description": "a small-time thief who gains Hanuman's powers and uses them to protect his village. The movie is set in the fictional village of Anjanadri. ",
+            "series": []
+          },
+          {
+            "title": "John Wick",
+            "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-c7qgVOh5J1g1oJ1tByv0ZeOdyrV9QxBqGppEG-ZHT-50PyXcMYFudM3LfYePbSnG0wI&usqp=CAU",
+            "spotlight": "https://www.adweek.com/wp-content/uploads/2019/05/john-wick-poster-qa-hed-page-2019.jpg?w=1320&h=660&crop=1",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8jZPqvqnNRMggzlwOnsWmGY0tN7sSpBDGOQ&s",
+            "portrait": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-c7qgVOh5J1g1oJ1tByv0ZeOdyrV9QxBqGppEG-ZHT-50PyXcMYFudM3LfYePbSnG0wI&usqp=CAU",
+            "action": "play",
+            "description": "American action thriller film about a retired hitman, Keanu Reeves, who returns to the criminal underworld after gangsters kill his dog, a gift from his deceased wife, and steal his car, seeking revenge",
+            "series": []
+          },
+          {
+            "title": "Captain America: Brave New World (2025)",
+            "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7ZoB07Woy4UITg5pHILx-ltV1FuuTmh0BvQ&s",
+            "spotlight": "https://assets-in.bmscdn.com/discovery-catalog/events/et00399765-detsvzqehh-landscape.jpg",
+            "thumbnail": "https://assets-in.bmscdn.com/discovery-catalog/events/et00399765-detsvzqehh-landscape.jpg",
+            "portrait": "https://i.pinimg.com/736x/3b/28/a6/3b28a687cdb627b750802d09923f66ff.jpg",
+            "action": "play",
+            "videoUrl": "https://test-videos.co.uk/vids/sintel/mp4/h264/720/Sintel_720_10s_1MB.mp4",
+            "description": "Sam Wilson, now the Captain America, finds himself embroiled in an international incident after meeting with the newly elected U.S. President Thaddeus Ross, and must uncover a nefarious global plot before the mastermind behind it causes chaos",
+            "series": []
+          },
+          {
+            "title": "Spider-Man",
+            "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6nmdvDFGNQ_URUxZGUb0sCJRjwRXOWsSmDA&s",
+            "spotlight": "https://c8.alamy.com/comp/CXJC1E/billboard-advertisement-poster-advert-ad-for-2012-film-movie-the-amazing-CXJC1E.jpg",
+            "thumbnail": "https://c8.alamy.com/comp/2JHDGBD/tobey-maguire-poster-spider-man-2-2004-2JHDGBD.jpg",
+            "portrait": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6nmdvDFGNQ_URUxZGUb0sCJRjwRXOWsSmDA&s",
+            "action": "play",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+            "description": "American teenager Peter Parker, a poor sickly orphan, is bitten by a radioactive spider. As a result of the bite, he gains superhuman strength, ...",
+            "series": [
+              "Spider-Man",
+              "Marvel Cinematic Universe"
+            ]
+          },
+          {
+            "title": "Guardians of the Galaxy",
+            "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9ymtjdvwRyjHloRGD9GEkjeDqwDMZXYSj6Q&s",
+            "spotlight": "https://c4.wallpaperflare.com/wallpaper/50/243/675/guardians-of-the-galaxy-marvel-comics-star-lord-gamora-wallpaper-preview.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/en/c/c4/Guardians_of_the_Galaxy_poster.jpg",
+            "portrait": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9ymtjdvwRyjHloRGD9GEkjeDqwDMZXYSj6Q&s",
+            "action": "play",
+            "videoUrl": "https://test-videos.co.uk/vids/sintel/mp4/h264/720/Sintel_720_10s_1MB.mp4",
+            "description": "A group of intergalactic criminals must pull together to stop a fanatical warrior from taking control of the universe.",
+            "series": ["Marvel Cinematic Universe"]
+          },
+          {
+            "title": "Kalki",
+            "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7iTdgKJB7fFcfAPxigTm9rDqDJoDxuM9sOg&s",
+            "spotlight": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7iTdgKJB7fFcfAPxigTm9rDqDJoDxuM9sOg&s",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7iTdgKJB7fFcfAPxigTm9rDqDJoDxuM9sOg&s",
+            "portrait": "https://www.thestatesman.com/wp-content/uploads/2024/05/IMG_9909.jpeg",
+            "action": "play",
+            "videoUrl": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_1MB.mp4",
+            "description": "A suspenseful crime drama",
+            "series": []
+          },
+          {
+            "title": "Avengers: Infinity War",
+            "poster": "https://m.media-amazon.com/images/I/81y2fn9eYrL._AC_UF1000,1000_QL80_.jpg",
+            "spotlight": "https://cdn.marvel.com/content/1x/avengersinfinitywar_lob_mas_hlf_01_2.jpg",
+            "thumbnail": "https://www.motherjones.com/wp-content/uploads/2018/04/avengers-infinity-war-official-poster.jpg?w=990",
+            "portrait": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_FMjpg_UX1000_.jpg",
+            "action": "play",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+            "description": " the Avengers and their allies unite to face the cosmic threat of Thanos, who seeks to collect all six Infinity Stones to reshape reality, leading to an epic showdown with devastating consequences",
+            "series": []
+          }
+        ]
+      },
+      {
+        "type": "tray",
+        "name": "Continue Watching",
+        "layout": "landscape",
+        "content": [
+          {
+            "title": "HanuMan",
+            "poster": "https://i.pinimg.com/736x/75/2d/29/752d29e9d9cb839a8fc8fb5acd064bad.jpg",
+            "spotlight": "https://economictimes.indiatimes.com/thumb/msid-106888809,width-1600,height-900,resizemode-4,imgsize-112166/hanumandb.jpg?from=mdr",
+            "thumbnail": "https://economictimes.indiatimes.com/thumb/msid-106888809,width-1600,height-900,resizemode-4,imgsize-112166/hanumandb.jpg?from=mdr",
+            "portrait": "https://i.pinimg.com/736x/75/2d/29/752d29e9d9cb839a8fc8fb5acd064bad.jpg",
+            "action": "play",
+            "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+            "description": "a small-time thief who gains Hanuman's powers and uses them to protect his village. The movie is set in the fictional village of Anjanadri. ",
+            "series": []
+          },
+          {
+            "title": "Kalki",
+            "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7iTdgKJB7fFcfAPxigTm9rDqDJoDxuM9sOg&s",
+            "spotlight": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf0Gx9D94uxgVPPfyks3izS8dUy3zAvRoVmQ&s",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7iTdgKJB7fFcfAPxigTm9rDqDJoDxuM9sOg&s",
+            "portrait": "https://www.thestatesman.com/wp-content/uploads/2024/05/IMG_9909.jpeg",
+            "action": "play",
+            "videoUrl": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_1MB.mp4",
+            "description": "A suspenseful crime drama",
+            "series": []
+          },
+          {
+            "title": "Captain America: Brave New World (2025)",
+            "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7ZoB07Woy4UITg5pHILx-ltV1FuuTmh0BvQ&s",
+            "spotlight": "https://assets-in.bmscdn.com/discovery-catalog/events/et00399765-detsvzqehh-landscape.jpg",
+            "thumbnail": "https://assets-in.bmscdn.com/discovery-catalog/events/et00399765-detsvzqehh-landscape.jpg",
+            "portrait": "https://i.pinimg.com/736x/3b/28/a6/3b28a687cdb627b750802d09923f66ff.jpg",
+            "action": "play",
+            "videoUrl": "https://test-videos.co.uk/vids/sintel/mp4/h264/720/Sintel_720_10s_1MB.mp4",
+            "description": "Sam Wilson, now the Captain America, finds himself embroiled in an international incident after meeting with the newly elected U.S. President Thaddeus Ross, and must uncover a nefarious global plot before the mastermind behind it causes chaos",
+            "series": []
+          },
+          {
+            "title": "John Wick",
+            "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-c7qgVOh5J1g1oJ1tByv0ZeOdyrV9QxBqGppEG-ZHT-50PyXcMYFudM3LfYePbSnG0wI&usqp=CAU",
+            "spotlight": "https://www.adweek.com/wp-content/uploads/2019/05/john-wick-poster-qa-hed-page-2019.jpg?w=1320&h=660&crop=1",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8jZPqvqnNRMggzlwOnsWmGY0tN7sSpBDGOQ&s",
+            "portrait": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-c7qgVOh5J1g1oJ1tByv0ZeOdyrV9QxBqGppEG-ZHT-50PyXcMYFudM3LfYePbSnG0wI&usqp=CAU",
+            "action": "play",
+            "videoUrl": "https://test-videos.co.uk/vids/sintel/mp4/h264/720/Sintel_720_10s_1MB.mp4",
+            "description": "American action thriller film about a retired hitman, Keanu Reeves, who returns to the criminal underworld after gangsters kill his dog, a gift from his deceased wife, and steal his car, seeking revenge",
+            "series": []
+          },
+          {
+            "title": "Avengers: Infinity War",
+            "poster": "https://www.motherjones.com/wp-content/uploads/2018/04/avengers-infinity-war-official-poster.jpg?w=990",
+            "spotlight": "https://cdn.marvel.com/content/1x/avengersinfinitywar_lob_mas_hlf_01_2.jpg",
+            "thumbnail": "https://www.motherjones.com/wp-content/uploads/2018/04/avengers-infinity-war-official-poster.jpg?w=990",
+            "portrait": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_FMjpg_UX1000_.jpg",
+            "action": "play",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+            "description": " the Avengers and their allies unite to face the cosmic threat of Thanos, who seeks to collect all six Infinity Stones to reshape reality, leading to an epic showdown with devastating consequences",
+            "series": []
+          },
+
+          {
+            "title": "Spider-Man",
+            "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6nmdvDFGNQ_URUxZGUb0sCJRjwRXOWsSmDA&s",
+            "spotlight": "https://c8.alamy.com/comp/CXJC1E/billboard-advertisement-poster-advert-ad-for-2012-film-movie-the-amazing-CXJC1E.jpg",
+            "thumbnail": "https://c8.alamy.com/comp/2JHDGBD/tobey-maguire-poster-spider-man-2-2004-2JHDGBD.jpg",
+            "portrait": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6nmdvDFGNQ_URUxZGUb0sCJRjwRXOWsSmDA&s",
+            "action": "play",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+            "description": "American teenager Peter Parker, a poor sickly orphan, is bitten by a radioactive spider. As a result of the bite, he gains superhuman strength, ...",
+            "series": [
+              "Spider-Man",
+              "Marvel Cinematic Universe"
+            ]
+          },
+          {
+            "title": "Guardians of the Galaxy",
+            "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHnexJWcXh1-cM8UdcdEVettL0oWK0rnDUGg&s",
+            "spotlight": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9ZbMOcuQ-7G4tM_t_OAPpTH4bn1H7La0lng&s",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/en/c/c4/Guardians_of_the_Galaxy_poster.jpg",
+            "portrait": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9ymtjdvwRyjHloRGD9GEkjeDqwDMZXYSj6Q&s",
+            "action": "play",
+            "videoUrl": "https://test-videos.co.uk/vids/sintel/mp4/h264/720/Sintel_720_10s_1MB.mp4",
+            "description": "A group of intergalactic criminals must pull together to stop a fanatical warrior from taking control of the universe.",
+            "series": ["Marvel Cinematic Universe"]
+          },
+          {
+            "title": "The Matrix",
+            "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8_OByzpPMRkIE_wDf1k7-DL1oPon9bYTeqQ&s",
+            "spotlight": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiGrj04oN18Xfv1hnyjNwdb1AZL_R9zJtEZA&s",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiGrj04oN18Xfv1hnyjNwdb1AZL_R9zJtEZA&s",
+            "portrait": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8_OByzpPMRkIE_wDf1k7-DL1oPon9bYTeqQ&s",
+            "action": "play",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+            "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+            "series": ["The Matrix Trilogy"]
+          },
+          {
+            "title": "Avengers: Endgame",
+            "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv_mvHCvzj913EoJYgK5ygvfzjmMQKppOLSA&s",
+            "spotlight": "https://c4.wallpaperflare.com/wallpaper/275/717/310/avengers-infinity-war-superheroes-cast-4k-8k-wallpaper-preview.jpg",
+            "thumbnail": "https://wallpapercave.com/wp/wp4866150.jpg",
+            "portrait": "https://terrigen-cdn-dev.marvel.com/content/prod/2x/avengersendgame_lob_mas_mob_01_2.jpg",
+            "action": "play",
+            "videoUrl": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_1MB.mp4",
+            "description": "The Avengers assemble once more to undo the damage caused by Thanos and restore the universe.",
+            "series": ["Marvel Cinematic Universe"]
+          },
+          {
+            "title": "Black Panther",
+            "poster": "https://m.media-amazon.com/images/I/810SlMj1+eL.jpg",
+            "spotlight": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4cG_nJd9eN64OicxZl8uWjHijcog5AGRcgQ&s",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX5OEPBLNuTMuvB_4qXbCkY2ang2kJtLQpKA&s",
+            "portrait": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa3Zd8R5-d8FtKDDFwBkwx9_VLBJwxIQHBqA&s",
+            "action": "play",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+            "description": "T'Challa, the new king of Wakanda, must defend his nation from enemies and claim his rightful place as the Black Panther.",
+            "series": ["Marvel Cinematic Universe"]
+          }
+        ]
+      },
+      {
+        "type": "tray",
+        "name": "Hot Picks",
+        "layout": "landscape",
+        "content": [
+          {
+            "title": "Kalki",
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Check_movie_poster.jpg/640px-Check_movie_poster.jpg",
+            "spotlight": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf0Gx9D94uxgVPPfyks3izS8dUy3zAvRoVmQ&s",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtLJFZdgUpaGKLUovQ8uCGuA3s9fwnB-E-gA&s",
+            "portrait": "https://www.thestatesman.com/wp-content/uploads/2024/05/IMG_9909.jpeg",
+            "action": "play",
+            "videoUrl": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_1MB.mp4",
+            "description": "A suspenseful crime drama",
+            "series": []
+          },
+          {
+            "title": "HanuMan",
+            "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR88wtDPYU9gYv2U0gaI8BDwz9RxSKaeZZbMw&s",
+            "spotlight": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-JhQNQWYufJe3VWekhx579rhN8OVcx-KHCA&s",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV1DQYXOFn7-Juik1NILqMKb8cN3IL7blAZA&s",
+            "portrait": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV1DQYXOFn7-Juik1NILqMKb8cN3IL7blAZA&s",
+            "action": "play",
+            "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+            "description": "A thrilling action movie",
+            "series": []
+          },
+          {
+            "title": "Avengers: Infinity War",
+            "poster": "https://m.media-amazon.com/images/I/81y2fn9eYrL._AC_UF1000,1000_QL80_.jpg",
+            "spotlight": "https://cdn.marvel.com/content/1x/avengersinfinitywar_lob_mas_hlf_01_2.jpg",
+            "thumbnail": "https://www.motherjones.com/wp-content/uploads/2018/04/avengers-infinity-war-official-poster.jpg?w=990",
+            "portrait": "https://m.media-amazon.com/images/I/81y2fn9eYrL._AC_UF1000,1000_QL80_.jpg",
+            "action": "play",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+            "description": " the Avengers and their allies unite to face the cosmic threat of Thanos, who seeks to collect all six Infinity Stones to reshape reality, leading to an epic showdown with devastating consequences",
+            "series": []
+          },
+          {
+            "title": "Spider-Man",
+            "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6nmdvDFGNQ_URUxZGUb0sCJRjwRXOWsSmDA&s",
+            "spotlight": "https://c8.alamy.com/comp/CXJC1E/billboard-advertisement-poster-advert-ad-for-2012-film-movie-the-amazing-CXJC1E.jpg",
+            "thumbnail": "https://c8.alamy.com/comp/2JHDGBD/tobey-maguire-poster-spider-man-2-2004-2JHDGBD.jpg",
+            "portrait": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6nmdvDFGNQ_URUxZGUb0sCJRjwRXOWsSmDA&s",
+            "action": "play",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+            "description": "American teenager Peter Parker, a poor sickly orphan, is bitten by a radioactive spider. As a result of the bite, he gains superhuman strength, ...",
+            "series": [
+              "Spider-Man",
+              "Marvel Cinematic Universe"
+            ]
+          },
+          {
+            "title": "Avengers: Endgame",
+            "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv_mvHCvzj913EoJYgK5ygvfzjmMQKppOLSA&s",
+            "spotlight": "https://c4.wallpaperflare.com/wallpaper/275/717/310/avengers-infinity-war-superheroes-cast-4k-8k-wallpaper-preview.jpg",
+            "thumbnail": "https://wallpapercave.com/wp/wp4866150.jpg",
+            "portrait": "https://terrigen-cdn-dev.marvel.com/content/prod/2x/avengersendgame_lob_mas_mob_01_2.jpg",
+            "action": "play",
+            "videoUrl": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_1MB.mp4",
+            "description": "The Avengers assemble once more to undo the damage caused by Thanos and restore the universe.",
+            "series": ["Marvel Cinematic Universe"]
+          },
+          {
+            "title": "Black Panther",
+            "poster": "https://m.media-amazon.com/images/I/810SlMj1+eL.jpg",
+            "spotlight": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4cG_nJd9eN64OicxZl8uWjHijcog5AGRcgQ&s",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX5OEPBLNuTMuvB_4qXbCkY2ang2kJtLQpKA&s",
+            "portrait": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa3Zd8R5-d8FtKDDFwBkwx9_VLBJwxIQHBqA&s",
+            "action": "play",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+            "description": "T'Challa, the new king of Wakanda, must defend his nation from enemies and claim his rightful place as the Black Panther.",
+            "series": ["Marvel Cinematic Universe"]
+          },
+          {
+            "title": "John Wick",
+            "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-c7qgVOh5J1g1oJ1tByv0ZeOdyrV9QxBqGppEG-ZHT-50PyXcMYFudM3LfYePbSnG0wI&usqp=CAU",
+            "spotlight": "https://www.adweek.com/wp-content/uploads/2019/05/john-wick-poster-qa-hed-page-2019.jpg?w=1320&h=660&crop=1",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8jZPqvqnNRMggzlwOnsWmGY0tN7sSpBDGOQ&s",
+            "portrait": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-c7qgVOh5J1g1oJ1tByv0ZeOdyrV9QxBqGppEG-ZHT-50PyXcMYFudM3LfYePbSnG0wI&usqp=CAU",
+            "action": "play",
+            "videoUrl": "https://test-videos.co.uk/vids/sintel/mp4/h264/720/Sintel_720_10s_1MB.mp4",
+            "description": "American action thriller film about a retired hitman, Keanu Reeves, who returns to the criminal underworld after gangsters kill his dog, a gift from his deceased wife, and steal his car, seeking revenge",
+            "series": []
+          },
+          {
+            "title": "Avengers: Infinity War",
+            "poster": "https://www.motherjones.com/wp-content/uploads/2018/04/avengers-infinity-war-official-poster.jpg?w=990",
+            "spotlight": "https://cdn.marvel.com/content/1x/avengersinfinitywar_lob_mas_hlf_01_2.jpg",
+            "thumbnail": "https://www.motherjones.com/wp-content/uploads/2018/04/avengers-infinity-war-official-poster.jpg?w=990",
+            "portrait": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_FMjpg_UX1000_.jpg",
+            "action": "play",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+            "description": " the Avengers and their allies unite to face the cosmic threat of Thanos, who seeks to collect all six Infinity Stones to reshape reality, leading to an epic showdown with devastating consequences",
+            "series": []
+          },
+          {
+            "title": "Spider-Man",
+            "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6nmdvDFGNQ_URUxZGUb0sCJRjwRXOWsSmDA&s",
+            "spotlight": "https://c8.alamy.com/comp/CXJC1E/billboard-advertisement-poster-advert-ad-for-2012-film-movie-the-amazing-CXJC1E.jpg",
+            "thumbnail": "https://c8.alamy.com/comp/2JHDGBD/tobey-maguire-poster-spider-man-2-2004-2JHDGBD.jpg",
+            "portrait": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6nmdvDFGNQ_URUxZGUb0sCJRjwRXOWsSmDA&s",
+            "action": "play",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+            "description": "American teenager Peter Parker, a poor sickly orphan, is bitten by a radioactive spider. As a result of the bite, he gains superhuman strength, ...",
+            "series": [
+              "Spider-Man",
+              "Marvel Cinematic Universe"
+            ]
+          },
+          {
+            "title": "Guardians of the Galaxy",
+            "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHnexJWcXh1-cM8UdcdEVettL0oWK0rnDUGg&s",
+            "spotlight": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9ZbMOcuQ-7G4tM_t_OAPpTH4bn1H7La0lng&s",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/en/c/c4/Guardians_of_the_Galaxy_poster.jpg",
+            "portrait": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9ymtjdvwRyjHloRGD9GEkjeDqwDMZXYSj6Q&s",
+            "action": "play",
+            "videoUrl": "https://test-videos.co.uk/vids/sintel/mp4/h264/720/Sintel_720_10s_1MB.mp4",
+            "description": "A group of intergalactic criminals must pull together to stop a fanatical warrior from taking control of the universe.",
+            "series": ["Marvel Cinematic Universe"]
+          },
+          {
+            "title": "The Matrix",
+            "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8_OByzpPMRkIE_wDf1k7-DL1oPon9bYTeqQ&s",
+            "spotlight": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiGrj04oN18Xfv1hnyjNwdb1AZL_R9zJtEZA&s",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiGrj04oN18Xfv1hnyjNwdb1AZL_R9zJtEZA&s",
+            "portrait": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8_OByzpPMRkIE_wDf1k7-DL1oPon9bYTeqQ&s",
+            "action": "play",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+            "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+            "series": ["The Matrix Trilogy"]
+          },
+          {
+            "title": "HanuMan",
+            "poster": "https://i.pinimg.com/736x/75/2d/29/752d29e9d9cb839a8fc8fb5acd064bad.jpg",
+            "spotlight": "https://economictimes.indiatimes.com/thumb/msid-106888809,width-1600,height-900,resizemode-4,imgsize-112166/hanumandb.jpg?from=mdr",
+            "thumbnail": "https://economictimes.indiatimes.com/thumb/msid-106888809,width-1600,height-900,resizemode-4,imgsize-112166/hanumandb.jpg?from=mdr",
+            "portrait": "https://i.pinimg.com/736x/75/2d/29/752d29e9d9cb839a8fc8fb5acd064bad.jpg",
+            "action": "play",
+            "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+            "description": "a small-time thief who gains Hanuman's powers and uses them to protect his village. The movie is set in the fictional village of Anjanadri. ",
+            "series": []
+          },
+          {
+            "title": "Captain America: Brave New World (2025)",
+            "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7ZoB07Woy4UITg5pHILx-ltV1FuuTmh0BvQ&s",
+            "spotlight": "https://assets-in.bmscdn.com/discovery-catalog/events/et00399765-detsvzqehh-landscape.jpg",
+            "thumbnail": "https://assets-in.bmscdn.com/discovery-catalog/events/et00399765-detsvzqehh-landscape.jpg",
+            "portrait": "https://i.pinimg.com/736x/3b/28/a6/3b28a687cdb627b750802d09923f66ff.jpg",
+            "action": "play",
+            "videoUrl": "https://test-videos.co.uk/vids/sintel/mp4/h264/720/Sintel_720_10s_1MB.mp4",
+            "description": "Sam Wilson, now the Captain America, finds himself embroiled in an international incident after meeting with the newly elected U.S. President Thaddeus Ross, and must uncover a nefarious global plot before the mastermind behind it causes chaos",
+            "series": []
+          },
+          {
+            "title": "Avengers: Infinity War",
+            "poster": "https://m.media-amazon.com/images/I/81y2fn9eYrL._AC_UF1000,1000_QL80_.jpg",
+            "spotlight": "https://cdn.marvel.com/content/1x/avengersinfinitywar_lob_mas_hlf_01_2.jpg",
+            "thumbnail": "https://www.motherjones.com/wp-content/uploads/2018/04/avengers-infinity-war-official-poster.jpg?w=990",
+            "portrait": "https://m.media-amazon.com/images/I/81y2fn9eYrL._AC_UF1000,1000_QL80_.jpg",
+            "action": "play",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+            "description": " the Avengers and their allies unite to face the cosmic threat of Thanos, who seeks to collect all six Infinity Stones to reshape reality, leading to an epic showdown with devastating consequences",
+            "series": []
+          }
+        ]
+      },
+      {
+        "type": "tray",
+        "name": "Best of UEL & UECL",
+        "layout": "landscape",
+        "content": [
+          {
+            "title": "John Wick",
+            "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-c7qgVOh5J1g1oJ1tByv0ZeOdyrV9QxBqGppEG-ZHT-50PyXcMYFudM3LfYePbSnG0wI&usqp=CAU",
+            "spotlight": "https://www.adweek.com/wp-content/uploads/2019/05/john-wick-poster-qa-hed-page-2019.jpg?w=1320&h=660&crop=1",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8jZPqvqnNRMggzlwOnsWmGY0tN7sSpBDGOQ&s",
+            "portrait": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-c7qgVOh5J1g1oJ1tByv0ZeOdyrV9QxBqGppEG-ZHT-50PyXcMYFudM3LfYePbSnG0wI&usqp=CAU",
+            "action": "play",
+            "description": "American action thriller film about a retired hitman, Keanu Reeves, who returns to the criminal underworld after gangsters kill his dog, a gift from his deceased wife, and steal his car, seeking revenge",
+            "series": []
+          },
+          {
+            "title": "HanuMan",
+            "poster": "https://i.pinimg.com/736x/75/2d/29/752d29e9d9cb839a8fc8fb5acd064bad.jpg",
+            "spotlight": "https://economictimes.indiatimes.com/thumb/msid-106888809,width-1600,height-900,resizemode-4,imgsize-112166/hanumandb.jpg?from=mdr",
+            "thumbnail": "https://economictimes.indiatimes.com/thumb/msid-106888809,width-1600,height-900,resizemode-4,imgsize-112166/hanumandb.jpg?from=mdr",
+            "portrait": "https://i.pinimg.com/736x/75/2d/29/752d29e9d9cb839a8fc8fb5acd064bad.jpg",
+            "action": "play",
+            "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+            "description": "a small-time thief who gains Hanuman's powers and uses them to protect his village. The movie is set in the fictional village of Anjanadri. ",
+            "series": []
+          },
+          {
+            "title": "Captain America: Brave New World (2025)",
+            "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7ZoB07Woy4UITg5pHILx-ltV1FuuTmh0BvQ&s",
+            "spotlight": "https://assets-in.bmscdn.com/discovery-catalog/events/et00399765-detsvzqehh-landscape.jpg",
+            "thumbnail": "https://assets-in.bmscdn.com/discovery-catalog/events/et00399765-detsvzqehh-landscape.jpg",
+            "portrait": "https://i.pinimg.com/736x/3b/28/a6/3b28a687cdb627b750802d09923f66ff.jpg",
+            "action": "play",
+            "videoUrl": "https://test-videos.co.uk/vids/sintel/mp4/h264/720/Sintel_720_10s_1MB.mp4",
+            "description": "Sam Wilson, now the Captain America, finds himself embroiled in an international incident after meeting with the newly elected U.S. President Thaddeus Ross, and must uncover a nefarious global plot before the mastermind behind it causes chaos",
+            "series": []
+          },
+          {
+            "title": "Avengers: Infinity War",
+            "poster": "https://m.media-amazon.com/images/I/81y2fn9eYrL._AC_UF1000,1000_QL80_.jpg",
+            "spotlight": "https://cdn.marvel.com/content/1x/avengersinfinitywar_lob_mas_hlf_01_2.jpg",
+            "thumbnail": "https://www.motherjones.com/wp-content/uploads/2018/04/avengers-infinity-war-official-poster.jpg?w=990",
+            "portrait": "https://m.media-amazon.com/images/I/81y2fn9eYrL._AC_UF1000,1000_QL80_.jpg",
+            "action": "play",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+            "description": " the Avengers and their allies unite to face the cosmic threat of Thanos, who seeks to collect all six Infinity Stones to reshape reality, leading to an epic showdown with devastating consequences",
+            "series": []
+          },
+          {
+            "title": "Avengers: Infinity War",
+            "poster": "https://www.motherjones.com/wp-content/uploads/2018/04/avengers-infinity-war-official-poster.jpg?w=990",
+            "spotlight": "https://cdn.marvel.com/content/1x/avengersinfinitywar_lob_mas_hlf_01_2.jpg",
+            "thumbnail": "https://www.motherjones.com/wp-content/uploads/2018/04/avengers-infinity-war-official-poster.jpg?w=990",
+            "portrait": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_FMjpg_UX1000_.jpg",
+            "action": "play",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+            "description": " the Avengers and their allies unite to face the cosmic threat of Thanos, who seeks to collect all six Infinity Stones to reshape reality, leading to an epic showdown with devastating consequences",
+            "series": []
+          },
+          {
+            "title": "Spider-Man",
+            "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6nmdvDFGNQ_URUxZGUb0sCJRjwRXOWsSmDA&s",
+            "spotlight": "https://c8.alamy.com/comp/CXJC1E/billboard-advertisement-poster-advert-ad-for-2012-film-movie-the-amazing-CXJC1E.jpg",
+            "thumbnail": "https://c8.alamy.com/comp/2JHDGBD/tobey-maguire-poster-spider-man-2-2004-2JHDGBD.jpg",
+            "portrait": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6nmdvDFGNQ_URUxZGUb0sCJRjwRXOWsSmDA&s",
+            "action": "play",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+            "description": "American teenager Peter Parker, a poor sickly orphan, is bitten by a radioactive spider. As a result of the bite, he gains superhuman strength, ...",
+            "series": [
+              "Spider-Man",
+              "Marvel Cinematic Universe"
+            ]
+          },
+          {
+            "title": "Guardians of the Galaxy",
+            "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHnexJWcXh1-cM8UdcdEVettL0oWK0rnDUGg&s",
+            "spotlight": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9ZbMOcuQ-7G4tM_t_OAPpTH4bn1H7La0lng&s",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/en/c/c4/Guardians_of_the_Galaxy_poster.jpg",
+            "portrait": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9ymtjdvwRyjHloRGD9GEkjeDqwDMZXYSj6Q&s",
+            "action": "play",
+            "videoUrl": "https://test-videos.co.uk/vids/sintel/mp4/h264/720/Sintel_720_10s_1MB.mp4",
+            "description": "A group of intergalactic criminals must pull together to stop a fanatical warrior from taking control of the universe.",
+            "series": ["Marvel Cinematic Universe"]
+          },
+          {
+            "title": "The Matrix",
+            "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8_OByzpPMRkIE_wDf1k7-DL1oPon9bYTeqQ&s",
+            "spotlight": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiGrj04oN18Xfv1hnyjNwdb1AZL_R9zJtEZA&s",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiGrj04oN18Xfv1hnyjNwdb1AZL_R9zJtEZA&s",
+            "portrait": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8_OByzpPMRkIE_wDf1k7-DL1oPon9bYTeqQ&s",
+            "action": "play",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+            "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+            "series": ["The Matrix Trilogy"]
+          }
+        ]
+      },
+      {
+        "type": "tray",
+        "name": "Top Web Series",
+        "layout": "portrait",
+        "content": [
+          {
+            "title": "HanuMan",
+            "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR88wtDPYU9gYv2U0gaI8BDwz9RxSKaeZZbMw&s",
+            "spotlight": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-JhQNQWYufJe3VWekhx579rhN8OVcx-KHCA&s",
+            "portrait": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV1DQYXOFn7-Juik1NILqMKb8cN3IL7blAZA&s",
+            "action": "play",
+            "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+            "description": "A thrilling action movie",
+            "series": []
+          },
+          {
+            "title": "Spider-Man",
+            "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6nmdvDFGNQ_URUxZGUb0sCJRjwRXOWsSmDA&s",
+            "spotlight": "https://c8.alamy.com/comp/CXJC1E/billboard-advertisement-poster-advert-ad-for-2012-film-movie-the-amazing-CXJC1E.jpg",
+            "thumbnail": "https://c8.alamy.com/comp/2JHDGBD/tobey-maguire-poster-spider-man-2-2004-2JHDGBD.jpg",
+            "portrait": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6nmdvDFGNQ_URUxZGUb0sCJRjwRXOWsSmDA&s",
+            "action": "play",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+            "description": "American teenager Peter Parker, a poor sickly orphan, is bitten by a radioactive spider. As a result of the bite, he gains superhuman strength, ...",
+            "series": [
+              "Spider-Man",
+              "Marvel Cinematic Universe"
+            ]
+          },
+          {
+            "title": "John Wick",
+            "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-c7qgVOh5J1g1oJ1tByv0ZeOdyrV9QxBqGppEG-ZHT-50PyXcMYFudM3LfYePbSnG0wI&usqp=CAU",
+            "spotlight": "https://www.adweek.com/wp-content/uploads/2019/05/john-wick-poster-qa-hed-page-2019.jpg?w=1320&h=660&crop=1",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8jZPqvqnNRMggzlwOnsWmGY0tN7sSpBDGOQ&s",
+            "portrait": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-c7qgVOh5J1g1oJ1tByv0ZeOdyrV9QxBqGppEG-ZHT-50PyXcMYFudM3LfYePbSnG0wI&usqp=CAU",
+            "action": "play",
+            "description": "American action thriller film about a retired hitman, Keanu Reeves, who returns to the criminal underworld after gangsters kill his dog, a gift from his deceased wife, and steal his car, seeking revenge",
+            "series": []
+          },
+          {
+            "title": "The Matrix",
+            "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8_OByzpPMRkIE_wDf1k7-DL1oPon9bYTeqQ&s",
+            "spotlight": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiGrj04oN18Xfv1hnyjNwdb1AZL_R9zJtEZA&s",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiGrj04oN18Xfv1hnyjNwdb1AZL_R9zJtEZA&s",
+            "portrait": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8_OByzpPMRkIE_wDf1k7-DL1oPon9bYTeqQ&s",
+            "action": "play",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+            "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+            "series": ["The Matrix Trilogy"]
+          },
+          {
+            "title": "Guardians of the Galaxy",
+            "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHnexJWcXh1-cM8UdcdEVettL0oWK0rnDUGg&s",
+            "spotlight": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9ZbMOcuQ-7G4tM_t_OAPpTH4bn1H7La0lng&s",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/en/c/c4/Guardians_of_the_Galaxy_poster.jpg",
+            "portrait": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9ymtjdvwRyjHloRGD9GEkjeDqwDMZXYSj6Q&s",
+            "action": "play",
+            "videoUrl": "https://test-videos.co.uk/vids/sintel/mp4/h264/720/Sintel_720_10s_1MB.mp4",
+            "description": "A group of intergalactic criminals must pull together to stop a fanatical warrior from taking control of the universe.",
+            "series": ["Marvel Cinematic Universe"]
+          }
+        ]
+      }
+    ]
+  }
+  

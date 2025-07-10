@@ -1,0 +1,244 @@
+
+body {
+  /* overflow: hidden; */
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: black;
+    color: white;
+  }
+  
+  .loading-screen {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .homepage {
+    padding: 10px;
+  }
+  
+  .carousel {
+    position: relative;
+  }
+  
+  .carousel-slide {
+    position: relative;
+  }
+  
+  .carousel-image {
+    width: 100%;
+    /* height: auto; */
+    /* testing below code */
+    height: 500px;
+    object-fit: cover;
+  }
+  
+ .slide-content p { 
+    font-size: 16px;
+    line-height: 1.5;
+    width: 70%;
+  }
+  
+ .slide-content { 
+    position: absolute;
+    bottom: 15%;
+    left: 5%;
+    color: white;
+    text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.8);
+    z-index: 2;
+  }
+  
+  .carousel-buttons {
+    margin-top: 10px;
+  }
+  
+  .watch-button, .mylist-button  { 
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    margin-right: 10px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .watch-button {
+    background: red;
+    color: white;
+  }
+  
+  .mylist-button {
+    background: rgba(255, 255, 255, 0.2);
+    color: white;
+  } 
+  
+  .tray {
+    margin-top: 20px;
+  }
+  
+  .tray h2 {
+    margin-left: 10px;
+  }
+  
+  /* Flexbox for horizontal scrolling */
+  .tray-content {
+    display: flex;
+    flex-wrap: nowrap; 
+    overflow-x: auto;
+    padding: 10px;
+    gap: 10px;
+    -ms-overflow-style: none; /* Hide scrollbar for IE/Edge */
+    scrollbar-width: none; /* Hide scrollbar for Firefox */
+  }
+  
+  .tray-content::-webkit-scrollbar {
+    display: none; /* Hide scrollbar for Chrome, Safari */
+  }
+  
+  /* Landscape Tray */
+  .landscape-tray .tile {
+    width: 250px; 
+    height: 140px;
+    position: relative;
+    flex: 0 0 auto; /* Prevents shrinking */
+    min-width: 250px; 
+  }
+  
+  .landscape-tile .tile-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 5px;
+  }
+  
+  /* Portrait Tray */
+  .portrait-tray .tile {
+    width: 100px;
+    height: 150px;
+    position: relative;
+    flex: 0 0 auto; 
+    min-width: 100px; 
+  }
+  
+  .portrait-tile .tile-image {
+    width: 100px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 5px;
+  }
+  
+  /* Play Button Overlay   baackground:  rgba(0, 0, 0, 0.6);*/
+  .play-button {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    font-size: 18px;
+    background: rgba(43, 40, 40, 30%);
+    color: white;
+    border: none;
+    cursor: pointer;
+    padding: 5px;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+
+  /* for carousel spacial navigaion */
+  
+
+  .carousel-slide:focus,
+  .tile:focus,
+  .carousel-slide.focused,
+  .tile.focused {
+    /* transform: scale(1.15); */
+    box-shadow: 0px 0px 2px 3px rgba(255, 255, 255, 0.9); 
+    outline: 3px solid yellow;
+  }
+  
+  /* Specifically for tray tiles */
+  .tray-content .tile:focus {
+    transform: scale(1.15);
+    box-shadow: 0px 0px 12px 4px rgba(255, 255, 255, 0.9);
+    outline: 3px solid yellow;
+  }
+  
+  /* Make sure focus state is applied immediately */
+  .carousel-slide,
+  .tile {
+    will-change: transform, box-shadow;
+  }
+  
+  /* Smooth transition for scaling and highlighting */
+  .carousel-slide,
+  .tile {
+    transition: transform 0.3s ease, box-shadow 0.3s ease, outline 0.2s ease-in-out;
+  }
+  
+  .timer-overlay {
+    position: absolute;
+    bottom: 60px; 
+    right: 15%; 
+    transform: translateX(50%); /* Moves back into view */
+    display: flex;
+    gap: 6px;
+    justify-content: center;
+    max-width: 90%; /* Ensures it stays inside screen */
+    overflow: hidden;
+    padding: 0 10px;
+  }
+  
+  .progress-bar {
+    width: 20px; 
+    height: 3px;
+     background:  rgba(255, 255, 255, 0.2);
+    border-radius: 5px;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .progress-bar.active {
+    width: 40px; /* Active bar expands */
+  }
+  
+  .progress-fill {
+    height: 100%;
+    width: 100%;
+    background: linear-gradient(to right, #ff9800, #ff5722);
+    transition: width 0.1s linear;
+  }
+
+.tile.focused {
+  /* transform: scale(1.1); */
+  box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.8);
+}
+
+.carousel-slide.focused {
+  transform: scale(1.1);
+}
+
+/* Carousel Buttons */
+
+button {
+  transition: background 0.3s ease, transform 0.3s ease;
+}
+
+button.focused {
+  background: red;
+  transform: scale(1.1);
+}
+
+.tray {
+  transition: transform 0.3s ease-in-out, opacity 0.3s;
+  opacity: 0.8;
+  transform: scale(0.95);
+}
+
+/* .active-tray {
+  /* opacity: 1;
+  transform: scale(1);
+  border: 2px solid white; Optional highlight */
+/* } */ 
