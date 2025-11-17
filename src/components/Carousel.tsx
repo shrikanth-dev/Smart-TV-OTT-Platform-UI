@@ -5,6 +5,7 @@ import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import { useFocusable, FocusContext } from "@noriginmedia/norigin-spatial-navigation";
 import { CarouselItem } from "../types/globalTypes";
+import TimerOverlay from "./TimerOverlay";
 
 
 const Carousel = ({ data, onPlay, interval = 5 }: { data: { content: CarouselItem[] }; onPlay: (item: CarouselItem) => void; interval?: number }) => {
@@ -16,8 +17,9 @@ const Carousel = ({ data, onPlay, interval = 5 }: { data: { content: CarouselIte
 
   const [activeIndex, setActiveIndex] = useState(0); 
   const [reset, setReset] = useState(false); 
+  const [paused, setPaused] = useState(false);
 
-  const totalSlides = data.content.length; // Get total slides count
+  const totalSlides = data.content.length; 
 
   const settings = useMemo(() => ({
     dots: false,
@@ -31,17 +33,21 @@ const Carousel = ({ data, onPlay, interval = 5 }: { data: { content: CarouselIte
     beforeChange: (_oldIndex: number, newIndex: number) => {
       setActiveIndex(newIndex);
     },
+    pauseOnHover: true,
   }), [interval]);
 
   useEffect(() => {
-    setReset(true); // Trigger reset when activeIndex changes
-    const timer = setTimeout(() => setReset(false), 100); // Reset after short delay
+    setReset(true);
+    const timer = setTimeout(() => setReset(false), 100); 
     return () => clearTimeout(timer);
   }, [activeIndex]);
 
   return (
     <FocusContext.Provider value={focusKey}>
-      <div ref={ref} className="carousel">
+      <div ref={ref} className="carousel"
+        onMouseEnter={() => setPaused(true)} 
+        onMouseLeave={() => setPaused(false)}
+      >
         <Slider ref={sliderRef} {...settings}>
           {data.content.map((item, index) => (
             <CarouselSlide 
@@ -56,6 +62,13 @@ const Carousel = ({ data, onPlay, interval = 5 }: { data: { content: CarouselIte
              />
           ))}
         </Slider>
+        <TimerOverlay
+          interval={interval}
+          reset={reset}
+          totalSlides={totalSlides}
+          activeIndex={activeIndex}
+          paused={paused}
+        />
       </div>
     </FocusContext.Provider>
   );

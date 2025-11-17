@@ -3,16 +3,13 @@ import { useFocusable, FocusContext } from "@noriginmedia/norigin-spatial-naviga
 import { TileProps } from "../types/globalTypes";
 import TileImage from "./TileImage";
 import PlayButton from "./PlayButton";
-//import { useEffect } from "react";
-//import { setFocus } from "@noriginmedia/norigin-spatial-navigation";
 
 const Tile: React.FC<Omit<TileProps, "isFocused">> = ({ item, layout, rowIndex, tileIndex, onPlay }) => {
   const { ref, focused, focusKey, hasFocusedChild } = useFocusable({
     focusKey: `tile-${rowIndex}-${tileIndex}`,
-    trackChildren: true, // Assigning unique focus keys
+    trackChildren: true, 
     onEnterPress: () => onPlay(item),
-    onFocus: (layout) => {
-      // Scroll only if tile is partially hidden
+    onFocus: () => {
       ref.current?.scrollIntoView({ behavior: "smooth", block: "nearest", inline: "center" });
     },
   });

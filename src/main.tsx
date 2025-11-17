@@ -5,8 +5,8 @@ import App from "./App";
 import { init } from "@noriginmedia/norigin-spatial-navigation";
 
 init({
-  debug: true, // Show debug logs in the console
-  visualDebug: false, // Highlight focused items for testing
+  debug: true, 
+  visualDebug: false, 
   distanceCalculationMethod: 'center',
 });
 

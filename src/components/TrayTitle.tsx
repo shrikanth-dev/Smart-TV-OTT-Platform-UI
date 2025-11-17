@@ -1,4 +1,4 @@
-import { TrayTitleProps } from "../types/globalTypes"; // Using type instead of interface
+import { TrayTitleProps } from "../types/globalTypes"; 
 
 const TrayTitle = ({ title }: TrayTitleProps) => {
   return <h2 className="tray-title">{title}</h2>;

@@ -48,7 +48,7 @@ const HomePage = () => {
 
   useEffect(() => {
     if (currentRowIndex === 0) {
-      setFocus("tile-0-0"); // Set focus to first tile of the first tray
+      setFocus("tile-0-0"); 
     }
   }, [focusKey, currentRowIndex]); 
 

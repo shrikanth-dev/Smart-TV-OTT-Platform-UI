@@ -29,7 +29,6 @@ const Tray: React.FC<Omit<TrayProps, "focusedRow" | "focusedIndexes">> = ({ titl
     }
   };
   
-  
   return (
     <div ref={mergeRefs(trayRef, ref)}  className={`tray ${layout === "portrait" ? "portrait-tray" : "landscape-tray"} ${hasFocusedChild ? "active-tray" : ""}`}>
       <TrayTitle title={title} />

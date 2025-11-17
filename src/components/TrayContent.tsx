@@ -10,14 +10,14 @@ import PortraitViewMoreTile from "./PortraitViewMore";
 const TrayContent = ({ items, layout, rowIndex, onPlay, onViewMore }: Omit<TrayContentProps, "focusedRow" | "focusedIndexes">) => {
   const { ref, focusKey, hasFocusedChild } = useFocusable({
     focusKey: `tray-${rowIndex}`,
-    trackChildren: true, //  Ensures children (tiles) are tracked
+    trackChildren: true, 
   });
 
   useEffect(() => {
     if (rowIndex === 0) {
-      setFocus("tile-0-0"); // Set focus to first tile of the first tray
+      setFocus("tile-0-0"); 
     }
-  }, []);  //focusKey, rowIndex
+  }, []); 
 
   return (
     <FocusContext.Provider value={focusKey}>
@@ -32,7 +32,6 @@ const TrayContent = ({ items, layout, rowIndex, onPlay, onViewMore }: Omit<TrayC
           tileIndex={tileIndex}
         />
       ))}
-
 
         {layout === "landscape" ? (
           <LandscapeViewMoreTile 

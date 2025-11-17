@@ -62,8 +62,6 @@ const PlayerPage: React.FC = () => {
           left: "10px",
           padding: "10px",
           backgroundColor: focused ? "rgba(0,0,0,0.5)":"white" ,
-          //backgroundColor: "rgba(0,0,0,0.5)",
-         // color: "white",
           border: "none",
           cursor: "pointer",
           fontSize: "16px",

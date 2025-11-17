@@ -1,10 +1,9 @@
 import { useFocusable } from "@noriginmedia/norigin-spatial-navigation";
 import CarouselButtons from "./CarouselButtons";
-import TimerOverlay from "./TimerOverlay";
 import { CarouselSlideProps } from "../types/globalTypes";
 import { useEffect } from "react";
 
-const CarouselSlide = ({ item,  reset,  activeIndex,  interval, totalSlides, onPlay }: CarouselSlideProps) => {
+const CarouselSlide = ({ item, onPlay }: CarouselSlideProps) => {
   const { ref, focused } = useFocusable({ 
     focusable: true,
     onEnterPress: () => onPlay(item),
@@ -24,14 +23,6 @@ const CarouselSlide = ({ item,  reset,  activeIndex,  interval, totalSlides, onP
         alt={item.title}
         onClick={() => onPlay(item)}
         style={{ cursor: "pointer" }}
-      />
-
-      <TimerOverlay
-       duration={5} 
-       reset={reset}
-       interval={interval}  
-      totalSlides={totalSlides} 
-      activeIndex={activeIndex}
       />
 
       <div className="slide-content">
